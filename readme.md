@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Hey, I'm Khauã Anadras, a passionate Full Stack Engineer!</h1>
 <p align="center">
-<a href="www.linkedin.com/in/khaua-anadras"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/khaua-anadras"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:khauaanadras@gmail.com"><img src="https://img.shields.io/badge/-khauaanadras@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
@@ -31,3 +31,5 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+# Anadras
